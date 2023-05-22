@@ -1,0 +1,6 @@
+train: ./train
+val: ./val
+
+nc: 16
+
+names: ['small-vehicle', 'large-vehicle', 'plane', 'storage-tank', 'ship', 'harbor', 'ground-track-field', 'soccer-ball-field', 'tennis-court', 'swimming-pool', 'baseball-diamond', 'roundabout', 'basketball-court', 'bridge', 'helicopter', 'container-crane']
